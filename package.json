@@ -1,0 +1,47 @@
+{
+    "name": "template",
+    "version": "1.0.0",
+    "description": "Simple Pug Sass Template",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/muhamed-elsayed/template.git"
+    },
+    "keywords": [
+        "pug",
+        "sass",
+        "gulp",
+        "template"
+    ],
+    "author": "Mohamed Abdelhamed",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/muhamed-elsayed/template/issues"
+    },
+    "homepage": "https://github.com/muhamed-elsayed/template#readme",
+    "devDependencies": {
+        "autoprefixer": "^9.1.0",
+        "browser-sync": "^2.24.6",
+        "del": "^3.0.0",
+        "eslint": "^8.26.0",
+        "gulp": "^4.0.0",
+        "gulp-cache": "^1.0.2",
+        "gulp-concat": "^2.6.1",
+        "gulp-csso": "^3.0.1",
+        "gulp-gh-pages": "^0.5.4",
+        "gulp-imagemin": "^4.1.0",
+        "gulp-include": "^2.3.1",
+        "gulp-jsmin": "^0.1.5",
+        "gulp-postcss": "^7.0.1",
+        "gulp-pug": "^4.0.1",
+        "gulp-purgecss": "^5.0.0",
+        "gulp-util": "^3.0.8",
+        "imagemin-pngquant": "^6.0.0",
+        "gulp-sass": "^5.1.0",
+        "sass": "^1.55.0"
+    },
+    "dependencies": {}
+}
